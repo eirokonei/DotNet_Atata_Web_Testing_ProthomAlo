@@ -2,7 +2,7 @@
 
 # Test Automation
 
-Automated web testing using Atata framework in .Net <br>
+Automated web testing using .Net Atata framework <br>
 
 ### `Code snaps`
 

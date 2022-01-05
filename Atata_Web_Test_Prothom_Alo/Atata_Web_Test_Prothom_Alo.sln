@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atata_Web_Test_Prothom_Alo", "SampleApp.UITests\Atata_Web_Test_Prothom_Alo.csproj", "{57EF6AC7-C4A0-45FD-B61D-0CEA8A8E8FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57EF6AC7-C4A0-45FD-B61D-0CEA8A8E8FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EF6AC7-C4A0-45FD-B61D-0CEA8A8E8FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EF6AC7-C4A0-45FD-B61D-0CEA8A8E8FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EF6AC7-C4A0-45FD-B61D-0CEA8A8E8FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92395310-B8C7-4C96-A14C-A0A2A18F5911}
+	EndGlobalSection
+EndGlobal

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\Atata_Web_Test_Prothom_Alo\\SampleApp.UITests\\Atata_Web_Test_Prothom_Alo.csproj": {}
+    "E:\\GitHub\\DotNet_Atata_Web_Testing_ProthomAlo\\Atata_Web_Test_Prothom_Alo\\SampleApp.UITests\\Atata_Web_Test_Prothom_Alo.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\Atata_Web_Test_Prothom_Alo\\SampleApp.UITests\\Atata_Web_Test_Prothom_Alo.csproj": {
+    "E:\\GitHub\\DotNet_Atata_Web_Testing_ProthomAlo\\Atata_Web_Test_Prothom_Alo\\SampleApp.UITests\\Atata_Web_Test_Prothom_Alo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\Atata_Web_Test_Prothom_Alo\\SampleApp.UITests\\Atata_Web_Test_Prothom_Alo.csproj",
+        "projectUniqueName": "E:\\GitHub\\DotNet_Atata_Web_Testing_ProthomAlo\\Atata_Web_Test_Prothom_Alo\\SampleApp.UITests\\Atata_Web_Test_Prothom_Alo.csproj",
         "projectName": "Atata_Web_Test_Prothom_Alo",
-        "projectPath": "E:\\Projects\\Atata_Web_Test_Prothom_Alo\\SampleApp.UITests\\Atata_Web_Test_Prothom_Alo.csproj",
+        "projectPath": "E:\\GitHub\\DotNet_Atata_Web_Testing_ProthomAlo\\Atata_Web_Test_Prothom_Alo\\SampleApp.UITests\\Atata_Web_Test_Prothom_Alo.csproj",
         "packagesPath": "C:\\Users\\SHAFAAT JAMIL\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\Atata_Web_Test_Prothom_Alo\\SampleApp.UITests\\obj\\",
+        "outputPath": "E:\\GitHub\\DotNet_Atata_Web_Testing_ProthomAlo\\Atata_Web_Test_Prothom_Alo\\SampleApp.UITests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHAFAAT JAMIL\\AppData\\Roaming\\NuGet\\NuGet.Config",
